@@ -2,7 +2,7 @@
 author = "Geraldhi Mahayadnya"
 title = "Kisah Malin Kundang"
 date = "2019-03-11"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+description = "Cerita Malin Kundang berasal dari provinsi Sumatra Barat, Indonesia. Legenda Malin Kundang sendiri menceritakan tentang seorang anak yang durhaka dan dikutuk menjadi batu."
 tags = [
     "cerita",
     "legenda",
