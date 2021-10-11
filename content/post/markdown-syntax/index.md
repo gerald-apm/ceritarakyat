@@ -1,150 +1,126 @@
 +++
-author = "Hugo Authors"
-title = "Markdown Syntax Guide"
+author = "Geraldhi Mahayadnya"
+title = "Kisah Malin Kundang"
 date = "2019-03-11"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
-    "markdown",
-    "css",
-    "html",
-    "themes",
+    "cerita",
+    "legenda",
+    "id"
 ]
 categories = [
-    "themes",
-    "syntax",
+    "Legenda",
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
 image = "pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg"
 +++
 
-This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
+Cerita Malin Kundang berasal dari provinsi Sumatra Barat, Indonesia. Legenda Malin Kundang sendiri menceritakan tentang seorang anak yang durhaka dan dikutuk menjadi batu.
 <!--more-->
 
-## Headings
+### Hiduplah seorang janda bernama Mande Rubayah yang tinggal bersama anak laki-lakinya, Malin Kundang
 
-The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
+Zaman dahulu kala ada sebuah cerita di sebuah perkampungan nelayan Pantai Air Manis di Padang, Sumatera Barat. Ada seorang janda bernama Mande Rubayah yang hidup bersama anak laki-lakinya yang bernama Malin Kundang.
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+Mande Rubayah sangat menyayangi dan memanjakan Malin Kundang. Malin kemudian tumbuh menjadi seorang anak yang rajin dan penurut.
 
-## Paragraph
+Ketika Mande Rubayah sudah tua, ia hanya mampu bekerja sebagai penjual kue untuk mencupi kebutuhan dirinya dan anak tunggalnya. Suatu hari, Malin jatuh sakit keras, hingga nyawanya hampir melayang namun akhirnya ia dapat diseiamatkan-berkat usaha keras ibunya.
 
-Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.
+Setelah sembuh dari sakitnya ia semakin disayang. Mereka adalah ibu dan anak yang saling menyayangi.
 
-Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
+### Saat dewasa, Malin memohon untuk merantau agar dapat mengubah nasibnya dan ibunya
 
-## Blockquotes
+Saat Malin sudah dewasa ia meminta izin kepada ibunya untuk pergi merantau ke kota, karena saat itu sedang ada kapal besar merapat di Pantai Air Manis.
 
-The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a `footer` or `cite` element, and optionally with in-line changes such as annotations and abbreviations.
+“Jangan Malin, ibu takut terjadi sesuatu denganmu di tanah rantau sana. Menetaplah saja di sini, temani ibu,” ucap ibunya yang sedih setelah mendengar keinginan Malin yang ingin merantau.
 
-#### Blockquote without attribution
+“Ibu tenanglah, tidak akan terjadi apa-apa denganku,” ujar Malin sambil menggenggam tangan ibunya.
 
-> Tiam, ad mint andaepu dandae nostion secatur sequo quae.
-> **Note** that you can use *Markdown syntax* within a blockquote.
+“Ini kesempatan Bu, kerena belum tentu setahun sekali ada kapal besar merapat di pantai ini. Aku ingin mengubah nasib kita Bu, izinkanlah” pinta Malin memohon.
 
-#### Blockquote with attribution
+### Mande Rubayah mengizinkan Malin untuk merantau, ia pun memberikan bekal nasi untuk Malin
 
-> Don't communicate by sharing memory, share memory by communicating.<br>
-> — <cite>Rob Pike[^1]</cite>
+“Baiklah, ibu izinkan. Cepatlah kembali, ibu akan selalu menunggumu Nak,” kata ibunya sambil menangis.
 
-[^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
+Meski dengan berat hati akhirnya Mande Rubayah mengizinkan Malin untuk pergi. Kemudian Malin dibekali dengan nasi berbungkus daun pisang sebanyak tujuh bungkus,
 
-## Tables
+“Untuk bekalmu di perjalanan,” katanya sambil menyerahkannya pada Malin. Setelah itu Malin Kundang berangkat ke tanah rantau meninggalkan ibunya sendirian.
 
-Tables aren't part of the core Markdown spec, but Hugo supports supports them out-of-the-box.
+### Mande Rubayah yang selalu mendoakan agar Malin selamat dan cepat kembali
 
-   Name | Age
---------|------
-    Bob | 27
-  Alice | 23
+Hari demi hari terus berlalu, hari yang terasa lambat bagi Mande Rubayah. Setiap pagi dan sore Mande Rubayah memandang ke laut.
 
-#### Inline Markdown within tables
+“Sudah sampai manakah kamu berlayar Nak?” tanyanya dalam hati sambil terus memandang laut.
 
-| Italics   | Bold     | Code   |
-| --------  | -------- | ------ |
-| *italics* | **bold** | `code` |
+la selalu mendoakan agar anaknya selalu selamat dan cepat kembali. Beberapa waktu kemudian ketika ada kapal yang datang merapat ia selalu menanyakan kabar tentang anaknya.
 
-## Code Blocks
+“Apakah kalian melihat anakku, Malin? Apakah dia baik-baik saja? Kapan ia pulang?” tanyanya.
 
-#### Code block with backticks
+Namun setiap ia bertanya pada awak kapal atau nahkoda tidak pernah mendapatkan jawaban. Malin tak pernah menitipkan barang atau pesan apapun kepada ibunya
 
-```html
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-```
+### Bertahun-tahun tak ada kabar, Mande Rubayah mendapat kabar Malin telah menikah dengan putri bangsawan
 
-#### Code block indented with four spaces
+Bertahun-tahun Mande Rubayah terus bertanya namun tak pernah ada jawaban hingga tubuhnya semakin tua, dan kini jalannya mulai terbungkuk-bungkuk. Pada suatu hari Mande Rubayah mendapat kabar dari nakhoda yang dahulu membawa Malin, nahkoda itu memberi kabar bahagia pada Mande Rubayah.
 
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
+“Mande, tahukah kau, anakmu kini telah menikah dengan gadis cantik, putri seorang bangsawan yang sangat kaya raya,” ucapnya saat itu.
 
-#### Code block with Hugo's internal highlight shortcode
-{{< highlight html >}}
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
+“Malin cepatlah pulang kemari Nak, ibu sudah tua Malin, kapan kau pulang…” rintihnya pilu setiap malam.
 
-## List Types
+Ia yakin anaknya pasti datang. Benar saja tak berapa lama kemudian di suatu hari yang cerah dari kejauhan tampak sebuah kapal yang megah nan indah berlayar menuju pantai.
 
-#### Ordered List
+### Penduduk desa menyambut kapal yang datang, terlihat sepasang anak muda yang berdiri di anjungan
 
-1. First item
-2. Second item
-3. Third item
+Penduduk desa mulai berkumpul, mereka mengira kapal itu milik seorang sultan atau seorang pangeran. Mereka menyambutnya dengan gembira. Mande Rubayah amat gembira mendengar hal itu, ia selalu berdoa agar anaknya selamat dan segera kembali menjenguknya, sinar keceriaan mulai mengampirinya kembali.
 
-#### Unordered List
+Namun hingga berbulan-bulan semenjak ia menerima kabar Malin dari nahkoda itu, Malin tak kunjung kembali untuk menengoknya.
 
-* List item
-* Another item
-* And another item
+Ketika kapal itu mulai merapat, terlihat sepasang anak muda berdiri di anjungan. Pakaian mereka berkilauan terkena sinar matahari. Wajah mereka cerah dihiasi senyum karena bahagia disambut dengan meriah.
 
-#### Nested list
+### Mande Rubayah yang menghampiri dan memeluk Malin karena takut kehilangan anaknya lagi
 
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
+Mande Rubayah juga ikut berdesakan mendekati kapal. Jantungnya berdebar keras saat melihat lelaki muda yang berada di kapal itu, ia sangat yakin sekali bahwa lelaki muda itu adalah anaknya, Malin Kundang.
 
-## Other Elements — abbr, sub, sup, kbd, mark
+Belum sempat para sesepuh kampung menyambut, Ibu Malin terlebih dahulu menghampiri Malin. la langsung memeluknya erat Malin karena takut kehilangan anaknya lagi.
 
-<abbr title="Graphics Interchange Format">GIF</abbr> is a bitmap image format.
+“Malin, anakku. Kau benar anakku kan?” katanya menahan isak tangis karena gembira, “Mengapa begitu lamanya kau tidak memberi kabar?”
 
-H<sub>2</sub>O
+### Malin terkejut karena dipeluk oleh ibunya dan istrinya pun juga merendahkan Mande Rubayah
 
-X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
+Malin terkejut karena dipeluk perempuan tua renta yang berpakaian compang-camping itu. Ia tak percaya bahwa perempuan itu adalah ibunya. Sebelum dia sempat berpikir berbicara, istrinya yang cantik itu meludah dan berkata,
 
-Press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>Delete</kbd></kbd> to end the session.
+“Perempuan jelek inikah ibumu? Mengapa dahulu kau bohong padaku! Bukankah dulu kau katakan bahwa ibumu adalah seorang bangsawan yang sederajat denganku?!” ucapnya sinis
 
-Most <mark>salamanders</mark> are nocturnal, and hunt for insects, worms, and other small creatures.
+Mendengar kata-kata pedas istrinya, Malin Kundang langsung mendorong ibunya hingga terguling ke pasir, “Perempuan gila! Aku bukan anakmu!” ucapnya kasar.
+
+### Malin tidak mengakui ibunya dan menendang Mande Rubayah hingga terkapar di pasir sambil menangis
+
+Mande Rubayah tidak percaya akan perilaku anaknya, ia jatuh terduduk sambil berkata,
+
+“Malin, Malin, anakku. Aku ini ibumu, Nak! Mengapa kau jadi seperti ini Nak?!”
+
+Malin Kundang tidak memperdulikan perkataan ibunya. Dia tidak akan mengakui ibunya. la malu kepada istrinya. Melihat perempuan itu bersujud hendak memeluk kakinya, Malin menendangnya sambil berkata,
+
+“Hai, perempuan gila! lbuku tidak seperti engkau! Melarat dan kotor!”
+
+Perempuan tua itu terkapar di pasir, menangis, dan sakit hati. Orang-orang yang meilhatnya ikut terpana dan kemudian pulang ke rumah masing-masing. Mande Rubayah pingsan dan terbaring sendiri. Ketika ia sadar, Pantai Air Manis sudah sepi.
+
+### Mande Rubayah berdoa dengan hatinya yang pilu dan kemudian langit berubah menjadi gelap
+
+Dilihatnya kapal Malin semakin menjauh. Ia tak menyangka Malin yang dulu disayangi tega berbuat demikian. Hatinya perih dan sakit, lalu tangannya diangkat ke langit. Ia kemudian berdoa dengan hatinya yang pilu,
+
+“Ya, Tuhan, kalau memang dia bukan anakku, aku maafkan perbuatannya tadi. Tapi kalau memang dia benar anakku yang bernama Malin Kundang, aku mohon keadilanmu, Ya Tuhan!” ucapnya pilu sambil menangis.
+
+Tak lama kemudian cuaca di tengah laut yang tadinya cerah, mendadak berubah menjadi gelap. Hujan tiba-tiba turun dengan teramat lebatnya.
+
+### Datang badai besar yang menghantam kapal Malin Kundang dan tampak sebongkah batu yang menyerupai tubuhnya
+
+Tiba-tiba datanglah badai besar, menghantam kapal Malin Kundang. Lalu sambaran petir yang menggelegar. Saat itu juga kapal hancur berkeping- keping. Kemudian terbawa ombak hingga ke pantai.
+
+Esoknya saat matahari pagi muncul di ufuk timur, badai telah reda. Di pinggir pantai terlihat kepingan kapal yang telah menjadi batu. Itulah kapal Malin Kundang! Tampak sebongkah batu yang menyerupai tubuh manusia.
+
+Itulah tubuh Malin Kundang anak durhaka yang dikutuk ibunya menjadi batu karena telah durhaka. Disela-sela batu itu berenang-renang ikan teri, ikan belanak, dan ikan tengiri. Konon, ikan itu berasal dari serpihan tubuh sang istri yang terus mencari Malin Kundang.
+
+Kisah Legenda Malin Kundang ini memiliki pesan yang dapat diambil si Kecil, yaitu sayangi kedua orangtua saat susah dan senang, dan jangan melupakan jasa orangtua yang telah menyayangi dan mendidik dari kecil.
+
+Itulah dongeng anak dari Sumatra Barat, kisah Malin Kundang, si Anak yang durhaka pada ibunya. Semoga bisa jadi pembelajaran ya untuk diceritakan ke anak-anak.
